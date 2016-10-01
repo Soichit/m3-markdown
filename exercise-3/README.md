@@ -9,3 +9,13 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# touch command
+
+
+1. What it does
+..1. It is used to make a new file
+..2. Can be used to make multiple files
+2. how it can be used
+..1. touch FILE_NAME
+..2. touch FILE1_NAME FILE2_NAME
