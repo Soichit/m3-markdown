@@ -14,8 +14,8 @@ See `complete` branch for answers.
 
 
 1. What it does
-..1. It is used to make a new file
-..2. Can be used to make multiple files
+  1. It is used to make a new file
+  2. Can be used to make multiple files
 2. how it can be used
-..1. touch FILE_NAME
-..2. touch FILE1_NAME FILE2_NAME
+  1. touch FILE_NAME
+  2. touch FILE1_NAME FILE2_NAME
